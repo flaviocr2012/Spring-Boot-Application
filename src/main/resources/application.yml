@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:15432/demodb
+    username: postgres
+    password: Postgres2019!
+    pool-size: 30
